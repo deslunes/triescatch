@@ -1,23 +1,18 @@
 {
-  "name": "vite-plugin-tailwind-attributify",
-  "version": "1.0.8",
+  "name": "triescatch",
+  "version": "0.0.1",
   "type": "module",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
-  "module": "./dist/index.mjs",
+  "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/deslunes/vite-plugin-tailwind-attributify.git"
   },
   "scripts": {
-    "build": "tsup"
+    "build": "tsup" //typescript is not used rn so there's no build step
   },
-  "keywords": [
-    "vite-plugin"
-  ],
   "author": "desLunes",
   "license": "MIT",
-  "description": "A Vite plugin that aims to use HTML attributes as Tailwind pseudo selectors in order to reduce the length of the class attribute.",
+  "description": "TriesCatch is a little tool that aims to improve JavaScript's native Try/Catch feature. ",
   "dependencies": {},
   "devDependencies": {
     "tsup": "^8.3.0",
