@@ -23,4 +23,4 @@ function tries(callback) {
   };
 }
 
-export { tries }
+export { tries, tries as test }
