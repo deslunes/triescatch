@@ -5,10 +5,10 @@
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deslunes/vite-plugin-tailwind-attributify.git"
+    "url": "git+https://github.com/deslunes/triescatch.git"
   },
   "scripts": {
-    "build": "tsup" //typescript is not used rn so there's no build step
+    "build": "tsup"
   },
   "author": "desLunes",
   "license": "MIT",
@@ -16,6 +16,6 @@
   "dependencies": {},
   "devDependencies": {
     "tsup": "^8.3.0",
-    "typescript": "^5.6.3",
+    "typescript": "^5.6.3"
   }
 }
