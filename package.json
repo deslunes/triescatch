@@ -1,0 +1,26 @@
+{
+  "name": "vite-plugin-tailwind-attributify",
+  "version": "1.0.8",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "module": "./dist/index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deslunes/vite-plugin-tailwind-attributify.git"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "vite-plugin"
+  ],
+  "author": "desLunes",
+  "license": "MIT",
+  "description": "A Vite plugin that aims to use HTML attributes as Tailwind pseudo selectors in order to reduce the length of the class attribute.",
+  "dependencies": {},
+  "devDependencies": {
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.3",
+  }
+}
