@@ -12,7 +12,6 @@
       "noEmit": true,
       "outDir": "dist"
   },
-  //I know there's no index.ts, I'm just paving the path
   "include": ["./src/index.ts"],
   "exclude": ["node_modules"]
 }

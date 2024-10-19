@@ -84,6 +84,8 @@ So I made my own. The "catch later" thing is kind of a gimmick. But I feel like 
 And I like that I can put my try catch in a variable, in order to access its content from outside.
 I wish we could do that in native javascript.
 
-# Still not mature
+# ~~Still not~~ mature enough
 
-The `tries` function is not using TypeScript as of now, I'm too junior to figure out how to do that with TypeScript. It will take time, and I don't know if this project has enough value to be used, but I'll keep working on this. If you have any suggestions or contributions, well, my door is wide open.
+~~The `tries` function is not using TypeScript as of now, I'm too junior to figure out how to do that with TypeScript. It will take time, and I don't know if this project has enough value to be used, but I'll keep working on this. If you have any suggestions or contributions, well, my door is wide open.~~
+
+Now it's made with typescript. I'm still too junior for that, but yeah. It works now.
